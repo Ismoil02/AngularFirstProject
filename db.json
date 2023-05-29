@@ -1,0 +1,74 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "newWord": "Book",
+      "translation": "kitob",
+      "example": "I'm reading interesting book",
+      "photo": "../assets/book.jpg"
+    },
+    {
+      "id": 2,
+      "newWord": "Car",
+      "translation": "moshina",
+      "example": "I'm reading interesting book",
+      "photo": "../../assets/car.jpg"
+    },
+    {
+      "id": 3,
+      "newWord": "Ball",
+      "translation": "kopto'k",
+      "example": "I'm reading interesting book",
+      "photo": "../../assets/ball.jpg"
+    },
+    {
+      "id": 4,
+      "newWord": "Dream",
+      "translation": "Orzu",
+      "example": "I'm reading interesting book",
+      "photo": "../../assets/dream.webp"
+    },
+    {
+      "id": 5,
+      "newWord": "Family",
+      "translation": "Oila",
+      "example": "I'm reading interesting book",
+      "photo": "../../assets/family.jpg"
+    },
+    {
+      "id": 6,
+      "newWord": "Friends",
+      "translation": "do'stlar",
+      "example": "I'm reading interesting book",
+      "photo": "../../assets/friend.jpg"
+    },
+    {
+      "id": 7,
+      "newWord": "Home",
+      "translation": "Uy",
+      "example": "I'm reading interesting book",
+      "photo": "../../assets/home.webp"
+    },
+    {
+      "id": 8,
+      "newWord": "Money",
+      "translation": "dollor",
+      "example": "I'm reading interesting book",
+      "photo": "../../assets/money.jpg"
+    },
+    {
+      "id": 9,
+      "newWord": "Word",
+      "translation": "so'zlar",
+      "example": "I'm reading interesting book",
+      "photo": "../../assets/my-words.png"
+    },
+    {
+      "id": 10,
+      "newWord": "Programmer",
+      "translation": "dasturchi",
+      "example": "I'm reading interesting book",
+      "photo": "../../assets/programmer.webp"
+    }
+  ]
+}
